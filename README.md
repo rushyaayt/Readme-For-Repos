@@ -42,3 +42,9 @@ Once the preview prints on your screen, the terminal stays open waiting for upda
 - **📥 Input:** make it sound more corporate and add modern modern-badge links at the top
 - **📥 Input:** add an Advanced Troubleshooting subsection inside the installation notes
 # **The script continuously updates the physical file until you type exit.**
+
+
+
+
+###### For Owner
+###### - check personal_stash for remain stuff
