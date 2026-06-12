@@ -1,10 +1,7 @@
 # Readme-For-Repos
 A powerful Python script that uses the Gemini API to generate an ultra-professional GitHub README.md.
 ## ^_~ Input Interface
-<python>
-  
-</summary><b>Step 1: Execute the Tool</b>
-<br>
+
 <img width="1408" height="768" alt="Gemini_Generated_Image_nz2r63nz2r63nz2r" src="https://github.com/user-attachments/assets/b3b06d1b-5eab-4dc6-b4f2-861c73a4832e" />
 
 
