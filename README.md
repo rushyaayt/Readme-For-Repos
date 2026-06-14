@@ -41,9 +41,7 @@ It instantly formats and drops a raw README.md right next to your script.
 Once the preview prints on your screen, the terminal stays open waiting for updates. You can type instructions freely:
 - **📥 Input:** make it sound more corporate and add modern modern-badge links at the top
 - **📥 Input:** add an Advanced Troubleshooting subsection inside the installation notes
-# **The script continuously updates the physical file until you type exit.**
+## **The script continuously updates the physical file until you type exit.**
 
 
-### For Examples you should [Click](https://github.com/rushyaayt/Readme-For-Repos/blob/main/Some%20Short%20Examples/Exampless.txt) here.
-###### For Owner
-###### - check personal_stash for remain stuff
+## For Examples you should [Click](https://github.com/rushyaayt/Readme-For-Repos/blob/main/Some%20Short%20Examples/Exampless.txt) here.
