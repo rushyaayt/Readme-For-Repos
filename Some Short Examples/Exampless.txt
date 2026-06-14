@@ -1,12 +1,9 @@
 Based on the structure and purpose of the `Readme-For-Repos` project by `rushyaayt` (which is a tool designed to automatically generate high-quality, professional `README.md` files for GitHub repositories), here are 10 input configuration examples.
-
 These examples cover various project types, tech stacks, and use cases, showing how a user might configure the repository generator's input format (usually formatted as JSON or YAML).
 
-### 1. Basic Python Script / CLI Tool
-
+1. Basic Python Script / CLI Tool
 An input for a simple command-line interface tool or script.
 
-```json
 {
   "project_name": "WeatherFetch CLI",
   "description": "A lightweight CLI tool written in Python to fetch real-time weather data directly in your terminal using the OpenWeatherMap API.",
@@ -17,13 +14,9 @@ An input for a simple command-line interface tool or script.
   "features": ["Real-time data", "Terminal color formatting", "Geocoding support"]
 }
 
-```
-
-### 2. Full-Stack Web Application (MERN Stack)
-
+2. Full-Stack Web Application (MERN Stack)
 An input configuration for a robust, multi-directory web application.
 
-```json
 {
   "project_name": "DevConnect",
   "description": "A social network platform tailored for software developers to share portfolios, write technical blogs, and connect with peers.",
@@ -34,13 +27,9 @@ An input configuration for a robust, multi-directory web application.
   "features": ["JWT Authentication", "Real-time chat with Socket.io", "Markdown blog editor", "Dark mode"]
 }
 
-```
-
-### 3. Mobile Application (Flutter)
-
+3. Mobile Application (Flutter)
 An input for a cross-platform mobile application.
 
-```json
 {
   "project_name": "TaskFlow",
   "description": "A sleek, intuitive productivity and time-tracking mobile application built with Flutter.",
@@ -51,13 +40,9 @@ An input for a cross-platform mobile application.
   "features": ["Pomodoro timer integration", "Offline data synchronization", "Interactive charts for daily habits"]
 }
 
-```
-
-### 4. REST API Backend (Go / Golang)
-
+4. REST API Backend (Go / Golang)
 An input focusing heavily on backend endpoints, environment variables, and API structure.
 
-```json
 {
   "project_name": "SecureAuth API",
   "description": "A high-performance, production-ready RESTful API backend handling user authentication, OAuth2, and role-based access control.",
@@ -68,13 +53,9 @@ An input focusing heavily on backend endpoints, environment variables, and API s
   "features": ["Rate limiting", "JWT session management", "Auto-generated Swagger documentation"]
 }
 
-```
-
-### 5. Data Science / Machine Learning Project
-
+5. Data Science / Machine Learning Project
 An input configuration that highlights data preprocessing, notebooks, and models.
 
-```json
 {
   "project_name": "StockPrice-Predictor",
   "description": "An end-to-end Machine Learning pipeline utilizing LSTM neural networks to forecast short-term stock market trends.",
@@ -85,13 +66,9 @@ An input configuration that highlights data preprocessing, notebooks, and models
   "features": ["Time-series data cleaning scripts", "Pre-trained model evaluation", "Matplotlib visualization dashboards"]
 }
 
-```
-
-### 6. UI Component Library (TypeScript / React)
-
+6. UI Component Library (TypeScript / React)
 An input specialized for frontend packages, NPM deployment, and UI components.
 
-```json
 {
   "project_name": "Aura-UI",
   "description": "A collection of accessible, reusable, and customizable React primitives built with TypeScript and Radix UI.",
@@ -102,13 +79,9 @@ An input specialized for frontend packages, NPM deployment, and UI components.
   "features": ["WAI-ARIA compliant", "Zero-runtime CSS in JS", "Fully themeable with tokens"]
 }
 
-```
-
-### 7. DevOps / Infrastructure as Code (IaC)
-
+7. DevOps / Infrastructure as Code (IaC)
 An input for DevOps repos, explaining cloud architecture, automation, and deployment.
 
-```json
 {
   "project_name": "AWS-EKS-Cluster-IaC",
   "description": "Terraform blueprints and automation scripts to provision a highly available, multi-AZ Kubernetes cluster on AWS.",
@@ -119,13 +92,10 @@ An input for DevOps repos, explaining cloud architecture, automation, and deploy
   "features": ["Multi-AZ deployment", "Managed Node Groups automation", "Integrated Prometheus/Grafana stack"]
 }
 
-```
-
-### 8. Browser Extension (Chrome / Firefox)
-
+}
+8. Browser Extension (Chrome / Firefox)
 An input optimized for a browser extension project.
 
-```json
 {
   "project_name": "TabSaver Pro",
   "description": "A browser extension designed to optimize RAM usage by automatically putting inactive tabs to sleep and managing tab sessions.",
@@ -136,13 +106,9 @@ An input optimized for a browser extension project.
   "features": ["Memory footprint reduction", "Session export/import to JSON", "White-list domain filtering"]
 }
 
-```
-
-### 9. Smart Contracts / Web3 (Solidity)
-
+9. Smart Contracts / Web3 (Solidity)
 An input for a blockchain/decentralized application (dApp) ecosystem.
 
-```json
 {
   "project_name": "NFT-Marketplace-Contracts",
   "description": "Secure, gas-optimized Solidity smart contracts implementing an open-source NFT marketplace standard.",
@@ -153,13 +119,9 @@ An input for a blockchain/decentralized application (dApp) ecosystem.
   "features": ["ERC-721 and ERC-1155 compatibility", "Dutch auction sales mechanics", "Extensively audited core logic"]
 }
 
-```
-
-### 10. Discord Bot / Automation Bot
-
+10. Discord Bot / Automation Bot
 An input for chat automation platforms and bot ecosystems.
 
-```json
 {
   "project_name": "ModGuard Bot",
   "description": "A fully-featured Discord moderation and utility bot aimed at managing community chat servers automatically.",
@@ -169,5 +131,3 @@ An input for chat automation platforms and bot ecosystems.
   "license": "GPL-3.0",
   "features": ["AI-driven anti-spam and profanity filter", "XP/Leveling progression system", "Custom slash commands framework"]
 }
-
-```
