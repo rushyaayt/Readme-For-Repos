@@ -44,7 +44,6 @@ Once the preview prints on your screen, the terminal stays open waiting for upda
 # **The script continuously updates the physical file until you type exit.**
 
 
-
-
+### For Examples you should [Click](https://github.com/rushyaayt/Readme-For-Repos/blob/main/Some%20Short%20Examples/Exampless.txt) here.
 ###### For Owner
 ###### - check personal_stash for remain stuff
